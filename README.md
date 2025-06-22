@@ -177,29 +177,43 @@ I'm a **21-year-old Full Stack Developer**
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+
 <br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkumavat&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivagad&show_icons=true&theme=dark&locale=en&layout=compact" alt="Shivagad" />
+</p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=omkumavat&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+
+<p>
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shivagad&show_icons=true&theme=dark&locale=en" alt="Shivagad" />
+</p>
+
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=omkumavat&theme=dark" alt="anii693" /></p>
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivagad&theme=dark" alt="Shivagad" />
+</p>
+
 <br><br><br><br><br><br><br><br><br><br>
+
 <hr width="60%" >
+
 <h3 align="left">Connect with me</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/omkumavat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-  <a href="https://codeverse-platform.vercel.app/user/omkumavat" target="blank"><img align="center" src="https://images.icon-icons.com/185/PNG/512/Terminal_22714.png" alt="anirudh-rai-072732220" height="40" width="40" /></a>
-  
+  <a href="https://www.linkedin.com/in/shivaji-gadekar/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaji-gadekar" height="30" width="40" />
+  </a>
+  <a href="https://codeverse-platform.vercel.app/user/Shiva" target="blank">
+    <img align="center" src="https://images.icon-icons.com/185/PNG/512/Terminal_22714.png" alt="Shivagad on CodeVerse" height="40" width="40" />
+  </a>
 </p>
-<br>
 
+<br>
 
 [Shivagad](https://github.com/Shivagad)
 
-Last Edited on: 27/04/2025
+Last Edited on: 22/06/2025
