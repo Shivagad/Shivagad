@@ -10,8 +10,6 @@
 </p>
 
 I'm a **21-year-old Full Stack Developer**  
- 
-
 
 <br>
 
@@ -207,7 +205,7 @@ I'm a **21-year-old Full Stack Developer**
   <a href="https://www.linkedin.com/in/shivaji-gadekar/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivaji-gadekar" height="30" width="40" />
   </a>
-  <a href="https://codeverse-platform.vercel.app/user/Shiva" target="blank">
+  <a href="https://codeverse-platform.vercel.app/user/shiva" target="blank">
     <img align="center" src="https://images.icon-icons.com/185/PNG/512/Terminal_22714.png" alt="Shivagad on CodeVerse" height="40" width="40" />
   </a>
 </p>
