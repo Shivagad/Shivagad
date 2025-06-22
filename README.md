@@ -1,7 +1,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Om Kumavat</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Shivaji Gadekar</h1></summary>
   </ul>
 </div>
 
@@ -10,7 +10,7 @@
 </p>
 
 I'm a **21-year-old Full Stack Developer**  
-### [**Portfolio Here**](https://portfolio-omkumavat.vercel.app) 
+ 
 
 
 <br>
