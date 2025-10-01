@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-I'm a **21-year-old Full Stack Developer**  
+
 
 <br>
 
@@ -215,3 +215,4 @@ I'm a **21-year-old Full Stack Developer**
 [Shivagad](https://github.com/Shivagad)
 
 Last Edited on: 22/06/2025
+
